@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "revision": 0,
+  "updated_at": "2026-10-03T18:14:54.854349+00:00",
+  "profile": {
+    "name": null,
+    "role": "DevOps",
+    "seniority": null,
+    "step": null,
+    "area": "Operação",
+    "client": null,
+    "timezone": "America/Fortaleza",
+    "weekly_capacity_hours": null,
+    "leadership": false
+  },
+  "active_cycle": null,
+  "sources": [],
+  "evidence": [],
+  "cycles": [],
+  "changes": []
+}
